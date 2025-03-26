@@ -45,6 +45,6 @@ Extracted malware IoCs.
 
 Identified registry modifications.
 
-Conclusion
+##Conclusion
 Understanding malware behavior helps in cybersecurity defense.
 
