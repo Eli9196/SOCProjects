@@ -1,18 +1,4 @@
-Capture and analyze network traffic.
 
-Detection Techniques
-Phishing Detection: Analyze DNS logs.
-
-C2 Traffic Analysis: Identify suspicious connections.
-
-Conclusion
-Threat hunting techniques help detect hidden cyber threats in network traffic.
-
-yaml
-Copy
-Edit
-
----
 
 ## **Project 3: Malware Analysis & Reverse Engineering**
 ### **Scripts & Setup**
@@ -52,3 +38,13 @@ This project sets up a malware analysis lab with Remnux and FLARE VM to inspect 
 2. Analyze malware samples:
    ```bash
    sha256sum malware.exe
+   Monitor registry and network changes.
+
+Key Findings
+Extracted malware IoCs.
+
+Identified registry modifications.
+
+Conclusion
+Understanding malware behavior helps in cybersecurity defense.
+
