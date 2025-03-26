@@ -91,7 +91,7 @@
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Eli9196/SOC-Analyst-Projects.git
+   git clone https://github.com/Eli9196/SOCProjects.git
    ```
 2. Navigate to a project folder and follow the setup instructions in the README.md.
 3. Contribute by adding new detection rules, scripts, or research!
