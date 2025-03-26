@@ -38,3 +38,18 @@ This project uses Wireshark and Zeek for network traffic analysis to detect anom
 1. Install required tools:
    ```bash
    sudo apt install -y wireshark zeek
+Capture and analyze network traffic.
+
+Detection Techniques
+Phishing Detection: Analyze DNS logs.
+
+C2 Traffic Analysis: Identify suspicious connections.
+
+Conclusion
+Threat hunting techniques help detect hidden cyber threats in network traffic.
+
+yaml
+Copy
+Edit
+
+---
